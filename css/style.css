@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,600|Roboto:300,400,700');
+
+/* Background image */
+
+body {
+  background-image: url("../img/bg.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+/* Headings */
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
+  font-family: 'Archivo Black', sans-serif;
+}
+
+/* Paragraph */
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-family: 'Pacifico', cursive;
+}
+
+/* Link & Buttons */
+
+a.btn, button {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-family: 'Archivo Black', sans-serif;
+}
